@@ -4,11 +4,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JAhimaz&count_private=true&show_icons=true&theme=tokyonight" height="220px"  />
 </p>
 <hr>
-
-<h3 align="center">Socials</h3>
-
-<p align="center">
-  <a href="google.com">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" />
-  </a>
-</p>
