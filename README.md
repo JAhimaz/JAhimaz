@@ -6,6 +6,9 @@
 <hr>
 
 <h3 align="center">Socials</h3>
-<a href="google.com" align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" />
-</a>
+
+<p align="center">
+  <a href="google.com">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" />
+  </a>
+</p>
