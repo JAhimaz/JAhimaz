@@ -1,5 +1,5 @@
 <h3 align="center">【Welcome to my profile!】<br>👉🏽 I'm Joshua Ahimaz --- @JAhimaz 👈🏽</h3>
-<p align="center">Studying at <b>Sunway / Lancaster University</b><br>Email: <b>Ahimaz.Joshua@gmail.com</b><br>📝 https://www.linkedin.com/in/joshahimaz/<br>
+<p align="center">Studying at <b>Sunway / Lancaster University</b><br>Email: <b>Ahimaz.Joshua@gmail.com</b><br>📝 https://www.linkedin.com/in/joshuaahimaz/<br>
 🌐 https://JoshuaAhimaz.me/<br></p><br>
 <hr>
 <p align="center">
